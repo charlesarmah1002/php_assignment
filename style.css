@@ -8,7 +8,7 @@
 #container {
     height: 100vh;
     width: 100vw;
-    background: #008060;
+    background: #c5e0b4;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -50,6 +50,6 @@ button.register {
     background: green;
 }
 
-button.signup {
+button.signin {
     background: blue;
 }
